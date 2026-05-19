@@ -36,7 +36,12 @@ The current voltmeter reading is:
 
 
   ## Circuit Diagram :
-  <img width="461" height="424" alt="image" src="https://github.com/user-attachments/assets/9fb955cb-44e3-4b4d-a389-2f4628c50930" />
+ <img width="835" height="791" alt="WhatsApp Image 2026-05-19 at 11 05 59 AM" src="https://github.com/user-attachments/assets/da4f7cc9-8d60-4cd0-b908-7b3357ea9801" />
+<img width="652" height="171" alt="WhatsApp Image 2026-05-19 at 11 06 20 AM" src="https://github.com/user-attachments/assets/f02079ea-ce48-4b92-b44a-5a12d98d21e9" />
+
+## output:
+<img width="798" height="266" alt="WhatsApp Image 2026-05-19 at 11 07 55 AM" src="https://github.com/user-attachments/assets/fbbc3eca-7c70-4b1e-b90f-ebf636c74aa4" />
 
 
 ## Result: 
+The unknown capacitence was determined using the Schering Bridge by obtaining the Bridge balance condition.
